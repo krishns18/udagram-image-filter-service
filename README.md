@@ -4,8 +4,6 @@
 
 **AWS EBS EndPoint**: http://sk-image-filter-service-dev.us-west-1.elasticbeanstalk.com/
 
-**ElasticBeanStalk Health Snapshot**:
-![Snapshot](./StatusHealthSnapshot.png)
 
 
 
